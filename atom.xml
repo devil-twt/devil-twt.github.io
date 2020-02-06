@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://devil-twt.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-02-06T17:06:28.160Z</updated>
+    <title>特污兔-Twtuu</title>
+    <updated>2020-02-06T17:10:31.194Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://devil-twt.github.io"/>
     <link rel="self" href="https://devil-twt.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>更新看心情，一起随缘吧~</subtitle>
     <logo>https://devil-twt.github.io/images/avatar.png</logo>
     <icon>https://devil-twt.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, 特污兔-Twtuu</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://devil-twt.github.io/post/hello-gridea</id>
