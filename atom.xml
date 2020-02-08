@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://devil-twt.github.io</id>
     <title>特污兔-Twtuu</title>
-    <updated>2020-02-06T19:19:23.790Z</updated>
+    <updated>2020-02-08T05:53:41.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://devil-twt.github.io"/>
     <link rel="self" href="https://devil-twt.github.io/atom.xml"/>
@@ -10,6 +10,43 @@
     <logo>https://devil-twt.github.io/images/avatar.png</logo>
     <icon>https://devil-twt.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 特污兔-Twtuu</rights>
+    <entry>
+        <title type="html"><![CDATA[「想の」关于小站整改的一定想法]]></title>
+        <id>https://devil-twt.github.io/post/sk-关于小站整改的一定想法</id>
+        <link href="https://devil-twt.github.io/post/sk-关于小站整改的一定想法">
+        </link>
+        <updated>2020-02-08T05:48:58.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>前前后后因为各种的问题，小站已经改了又整，整了又改了很多次了。但是说实话至始至终都没有一版是让我感觉到满意的😫总有各种各样的问题让我觉得不是很满意。这次整改也是我下定决心的一次整改，写下本篇文章，用以记录和整理思路和想法。</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>前前后后因为各种的问题，小站已经改了又整，整了又改了很多次了。但是说实话至始至终都没有一版是让我感觉到满意的😫总有各种各样的问题让我觉得不是很满意。这次整改也是我下定决心的一次整改，写下本篇文章，用以记录和整理思路和想法。</p>
+</blockquote>
+<!-- more -->
+<h2 id="关于小站的定位">关于小站的定位</h2>
+<p>其实定位问题是我考虑的最多的一个问题，目前考虑的有以下一些方向：</p>
+<ul>
+<li>纯粹的资源分享，只用来发资源。
+<ul>
+<li>纯Windows资源分享</li>
+<li>纯Mac资源分享</li>
+<li>纯ios资源分享</li>
+<li>纯安卓资源分享</li>
+<li>Windows+Mac电脑资源分享</li>
+<li>ios+安卓手机资源分享</li>
+<li>综合资源分享</li>
+</ul>
+</li>
+<li>资源分享+软件使用教程</li>
+<li>资源分享+软件使用教程+相关专题文章</li>
+<li>资源分享+软件使用教程+相关专题文章+个人日志</li>
+</ul>
+<p>怎么说呢？做综合类型的肯定是受众最广泛的，但是又是最消耗精力的！尤其是相关专题文章，肯定我一个人是五法满足的，这就势必涉及到后期投稿问题。总之是一个很头疼的问题。</p>
+<p>但是如果单做资源的呢？相对工作量比较少但是内容单一，机械化的操作，很难长久的坚持下去...就拿我这种性格的人吧，没有挑战反倒无趣。所以纯粹的资源分享我是并不想选的一个方向。</p>
+<p>最终思考：要做就做最好的，哪怕最废时间和精力。我也想做最好的，可能前期很艰难，但是没办法啊，一个人努力，加油！向前跑，迎接...咳咳咳~</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://devil-twt.github.io/post/hello-gridea</id>
